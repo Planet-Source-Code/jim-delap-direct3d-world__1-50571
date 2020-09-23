@@ -1,0 +1,13 @@
+Keyboard Controls
+=-=-=-=-=-=-=-=-=
+
+UP Arrow          = Move Forward
+DOWN Arrow        = Move Backward
+LEFT Arrow        = Rotate Left
+RIGHT Arrow       = Rotate Right
+ALT + LEFT Arrow  = Strafe Left
+ALT + Right Arrow = Strafe Right
+SPACEBAR          = Jump
+A                 = Look Up
+Z                 = Look Down
+BACKSPACE         = Turn Around
